@@ -7,13 +7,15 @@
 
 ## 🛠️ Technologies I Work With
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-🖥️-lightgrey)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-000?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-000?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000?style=flat&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000?style=flat&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql&logoColor=white)
 
 ---
 
