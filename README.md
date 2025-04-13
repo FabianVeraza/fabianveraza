@@ -33,7 +33,7 @@ Let’s connect and see how I can help!
 
 ## 📲 Social Media
 
-[![Instagram](https://img.shields.io/badge/@fabianveraza-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fveraza)  
+[![Instagram](https://img.shields.io/badge/@fabianveraza-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fabianveraza)  
 
 ---
 
