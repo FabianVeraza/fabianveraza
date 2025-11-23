@@ -7,6 +7,8 @@
 
 ## 🛠️ Technologies I Work With
 
+![Astro](https://img.shields.io/badge/Astro-000?style=flat&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=flat&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-000?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=white)
